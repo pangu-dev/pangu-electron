@@ -60,6 +60,7 @@ specifiers:
   rimraf: ^3.0.2
   sass: ^1.51.0
   sass-loader: ^12.6.0
+  source-map-support: ^0.5.21
   style-loader: ^3.3.1
   terser-webpack-plugin: ^5.3.1
   ts-jest: ^28.0.2
@@ -135,6 +136,7 @@ devDependencies:
   rimraf: 3.0.2
   sass: 1.53.0
   sass-loader: 12.6.0_sass@1.53.0+webpack@5.73.0
+  source-map-support: 0.5.21
   style-loader: 3.3.1_webpack@5.73.0
   terser-webpack-plugin: 5.3.3_webpack@5.73.0
   ts-jest: 28.0.7_bi2kohzqnxavgozw3csgny5hju
